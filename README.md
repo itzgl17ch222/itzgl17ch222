@@ -1,16 +1,23 @@
-## Hi there 👋
+### itzgl17ch222 here 👋
 
-<!--
-**itzgl17ch222/itzgl17ch222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Singapore.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Tinkering with side projects on weekends
+- 📝 I keep notes about lightweight tools
+- 👯 Open to collaborating on open-source projects
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzgl17ch222&hide_border=true&theme=minimal" alt="Contribution graph" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzgl17ch222&layout=compact&langs_count=8&hide_border=true&theme=ayu" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-39d353?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-39d353?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-39d353?style=for-the-badge&logoColor=white" alt="TypeScript" />
+</p>
+
+</details>
+
+<sub>Open to interesting conversations and collabs.</sub>
